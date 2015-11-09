@@ -1,0 +1,21 @@
+
+--------------------------------------------
+--------------------------------------------
+WELL DONE - THIS IS THE RIGHT FILE
+
+If you tap Ctrl+l on the keyboard once you've read this
+the screen will clear and no-one else will be able to read it.
+
+Your code to collect the silver badge is, 'L33t Ha><0R'.
+(That's leet speak for 'Elite Hacker', btw)
+
+Impress those around you by browsing the web using the command line.
+To get started, type...
+
+lynx google.co.uk
+
+Navigate with the arrows, and hit Enter to select links.
+Type 'a' whenever you're prompted about cookies.
+
+--------------------------------------------
+--------------------------------------------
